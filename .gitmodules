@@ -1,0 +1,3 @@
+[submodule "WebServices"]
+	path = WebServices
+	url = https://github.com/AchrafSakout/WebServices
