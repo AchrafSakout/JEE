@@ -1,3 +1,7 @@
 [submodule "WebServices"]
 	path = WebServices
 	url = https://github.com/AchrafSakout/WebServices
+[submodule "Micro-Services-Spring-Cloud-Gateway-and-Eureka-Registry-Implementation"]
+	path = Micro-Services-Spring-Cloud-Gateway-and-Eureka-Registry-Implementation
+	url = https://github.com/AchrafSakout/Micro-Services-Spring-Cloud-Gateway-and-Eureka-Registry-Implementation.git
+	branch = main
